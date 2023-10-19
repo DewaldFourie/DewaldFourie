@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on The Odin Project<br>🤝 I’m looking for help with code structure and best principles <br>🌱 I’m currently learning front-end technologies<br>🇿🇦 I'm from South Africa
+🔭 I’m currently working on The Odin Project and some Personal Development Projects<br>🤝 I’m always eager to learn about new technologies and best principles.<br>🌱 I’m currently implementing front-end technologies and backend systems<br>🇿🇦 I'm from South Africa
 
 
 ## 🌐 Socials:
