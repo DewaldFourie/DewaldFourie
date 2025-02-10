@@ -2,7 +2,7 @@
 🔭 I’m currently working as an Independent Consultant doing Software & Web Development. <br>🌱 I’m currently implementing front-end technologies and back-end systems<br>🇿🇦 I'm from South Africa
 
 ## 📚 Self-Study: 
-📈 I just recenlty finished The Odin Project and some Personal Development Projects. <br>🤝 I’m always eager to learn about new technologies and best principles.
+📈 I just recently finished The Odin Project and I am busy with some Personal Development Projects. <br>🤝 I’m always eager to learn about new technologies and best principles.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DewaldFourie) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dewaldfourie15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/dewald-fourie-a8643b1b3) [![Website](https://img.shields.io/badge/My%20Website-purple)](https://portfolio-website-pied-five.vercel.app/)
