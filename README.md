@@ -1,3 +1,5 @@
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dewaldfourie/dewaldfourie/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dewaldfourie/dewaldfourie/output/pacman-contribution-graph.svg">
@@ -26,17 +28,22 @@
 
 ###
 
-<br clear="both">
-
 <h1 align="center">Hi There, Welcome to my Github 👋</h1>
 
-###
 
-<h2 align="center">👩‍💻  About Me</h2>
 
-###
+<div align="center">
+  <h3>My name is Dewald Fourie</h3>
+  <br>
+  <p>
+    🔭  I’m a Software & Web Developer<br>
+    💻  Currently implementing front-end technologies and back-end systems<br>
+    📚  I'm currently learning more about AI and Mobile Development<br>
+    🇿🇦  I'm from South Africa
+  </p>
+</div>
 
-<p align="center">My name is Dewald Fourie<br><br> 🔭 I’m a Software & Web Developer<br>💻 Currently implementing front-end technologies and back-end systems<br>📚 I'm currently learning more about AI and Mobile Development<br>🇿🇦 I'm from South Africa</p>
+<br>
 
 ###
 
@@ -166,13 +173,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
-###
+
+<br clear="both">
 
 <h3 align="center">🔥   My Stats</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dewaldfourie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
