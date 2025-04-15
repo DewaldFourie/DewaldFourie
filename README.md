@@ -1,8 +1,8 @@
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lud3VvMWdsZ3FkdmFtZHBhZGkzMms3aXdmZzQ5N2p4cml0dHV5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dewaldfourie/dewaldfourie/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dewaldfourie/dewaldfourie/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dewaldfourie/dewaldfourie/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -25,6 +25,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h1 align="center">Hi There, Welcome to my Github 👋</h1>
 
@@ -173,15 +175,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dewaldfourie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=true&order=2" height="200" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=dewaldfourie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=dewaldfourie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dewaldfourie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=true&order=2" height="200" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=dewaldfourie&theme=algolia&row=1&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dewaldfourie/dewaldfourie/output/snake.svg" alt="Snake animation" />
 
 ###
