@@ -36,7 +36,8 @@
   <h3>My name is Dewald Fourie</h3>
   <br>
   <p>
-    🔭  I’m a Software & Web Developer<br>
+    🔭  I’m a Software Developer & Application Architect<br>
+    💼  Fullstack Software Engineer @ Protea Metering<br>
     💻  Currently implementing front-end technologies and back-end systems<br>
     📚  I'm currently learning more about AI and Mobile Development<br>
     🇿🇦  I'm from South Africa
